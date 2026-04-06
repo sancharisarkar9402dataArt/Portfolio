@@ -52,10 +52,10 @@ The dataset contains transactional retail data including:
 # Dashboard Preview
 
 ## Overview
-![Overview](screenshots/overview.png)
+![Overview](Screenshots/overview.png)
 
 ## Category Analysis
-![Category Analysis](screenshots/category_analysis.png)
+![Category Analysis](Screenshots/category_analysis.png)
 
 
 
