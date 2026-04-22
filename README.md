@@ -53,11 +53,10 @@ The dataset contains transactional retail data, including:
 ## Dashboard Preview
 
 ### Business Overview
-![Overview](screenshots/overview.png)
+https://github.com/sancharisarkar9402dataArt/Portfolio/blob/main/Screenshots/Business%20overview.png?raw=true
 
 ### Category & Discount Analysis
-![Category Analysis](screenshots/category_analysis.png)
-
+https://github.com/sancharisarkar9402dataArt/Portfolio/blob/main/Screenshots/Category%20&%20Discount%20Analysis.png?raw=true
 ---
 
 ## Key Insights
