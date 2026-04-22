@@ -1,99 +1,96 @@
-### Superstore Sales & Profit Analysis
+# Superstore Sales, Profit & Discount Analysis
 
-# Project Overview
-This project analyzes retail sales data to identify key business insights related to sales performance, profitability, and product categories.
+## Project Overview
+This project analyzes retail sales data to uncover key business insights related to sales performance, profitability, and discount impact across product categories.
 
 The analysis is performed using **SQL (PostgreSQL)** and visualized using **Power BI**.
 
+---
 
+## Business Objective
+- Analyze overall sales and profit performance  
+- Identify profitable and loss-making categories and sub-categories  
+- Understand the impact of discounts on profitability  
+- Track monthly sales trends  
+- Support data-driven business decisions  
 
-# Business Objective
-- Analyze overall sales and profit performance
-- Identify profitable and loss-making product categories
-- Track monthly sales trends
-- Provide insights for business decision-making
+---
 
+## Tools & Technologies
+- SQL (PostgreSQL)  
+- Power BI  
+- Data Analysis  
+- Data Visualization  
 
+---
 
-# Tools & Technologies
-- SQL (PostgreSQL)
-- Power BI
-- Data Visualization
-- Data Analysis
+## Dataset
+The dataset contains transactional retail data, including:
+- Order Date  
+- Sales  
+- Profit  
+- Quantity  
+- Category & Sub-Category  
+- Region  
 
+---
 
+## Data Preparation
+- Checked for missing values and duplicates  
+- Validated data consistency  
+- Ensured correct data types  
 
-# Dataset
-The dataset contains transactional retail data including:
-- Order Date
-- Sales
-- Profit
-- Quantity
-- Category & Sub-Category
-- Region
+---
 
-
-
-# Data Preparation
-- Checked for null values and duplicates
-- Validated data consistency
-- Ensured correct data types
-
-
-
-# Key KPIs
+## Key KPIs
 - **Total Sales:** 733.22K  
 - **Total Profit:** 93.44K  
 - **Profit Margin:** 12.74%  
 - **Total Quantity:** 12.48K  
 
+---
 
+## Dashboard Preview
 
-# Dashboard Preview
+### Business Overview
+![Overview](screenshots/overview.png)
 
-## Overview
-![Overview](Screenshots/overview.png)
+### Category & Discount Analysis
+![Category Analysis](screenshots/category_analysis.png)
 
-## Category Analysis
-![Category Analysis](Screenshots/category_analysis.png)
+---
 
+## Key Insights
+- Technology generates the highest profit and margin  
+- Furniture shows low profitability despite higher discounts  
+- Tables is a loss-making sub-category  
+- Copiers and Phones are top profit contributors  
+- Sales show peaks during certain months, indicating seasonality  
 
+---
 
-# Key Insights
+## Business Recommendations
+- Optimize discount strategy for low-margin categories like Furniture  
+- Focus on high-performing segments such as Technology  
+- Improve cost efficiency for loss-making products (e.g., Tables)  
+- Leverage seasonal trends for better sales planning  
 
-- **Technology category** generates the highest profit
-- **Tables** is a loss-making sub-category
-- **Copiers and Phones** are top profit contributors
-- Sales peak observed during **March**
-- Profitability varies significantly across sub-categories
+---
 
+## SQL Highlights
+- KPI calculations (Sales, Profit, Margin)  
+- Monthly trend analysis  
+- Top and bottom product performance  
+- Profit contribution analysis  
 
+---
 
-# Business Recommendations
+## Files Included
+- Power BI Dashboard (`.pbix`)  
+- Dashboard PDF export  
+- SQL analysis scripts  
 
-- Reduce discounts or optimize pricing for loss-making products like Tables
-- Focus on high-performing categories such as Technology
-- Improve supply chain or cost structure for low-profit items
+---
 
-
-
-# SQL Highlights
-
-- KPI calculations (Sales, Profit, Margin)
-- Monthly trend analysis
-- Top & Bottom product performance
-- Profit contribution analysis
-
-
-
-# Files Included
-
-- SQL Analysis Script
-- Power BI Dashboard (.pbix)
-- Dashboard PDF Export
-- Dataset
-
-
-
-# Conclusion
-This project demonstrates end-to-end data analysis including data cleaning, SQL querying, and dashboard creation to generate actionable business insights.
+## Conclusion
+This project demonstrates end-to-end data analysis, including data preparation, SQL querying, and dashboard development, to generate actionable business insights.
