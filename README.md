@@ -53,11 +53,10 @@ The dataset contains transactional retail data, including:
 ## Dashboard Preview
 
 ### Business Overview
-https://github.com/sancharisarkar9402dataArt/Portfolio/blob/main/Screenshots/Business%20overview.png?raw=true
+![Business Overview](Screenshots/Business%20overview.png)
 
 ### Category & Discount Analysis
-https://github.com/sancharisarkar9402dataArt/Portfolio/blob/main/Screenshots/Category%20&%20Discount%20Analysis.png?raw=true
----
+![Category Analysis](Screenshots/Category%20%26%20Discount%20Analysis.png)---
 
 ## Key Insights
 - Technology generates the highest profit and margin  
