@@ -1,99 +1,55 @@
-### Superstore Sales & Profit Analysis
+# Sanchari Sarkar
 
-# Project Overview
-This project analyzes retail sales data to identify key business insights related to sales performance, profitability, and product categories.
+### Business Data Analyst | Business Analyst
 
-The analysis is performed using **SQL (PostgreSQL)** and visualized using **Power BI**.
+Business Data Analyst with **9+ years of overall experience**, including **7 years in Data Analytics and KPI Reporting**.
 
+I work with business and operations teams to turn data into **clear insights, KPIs and actionable recommendations**.
 
+**Skills:** Power BI | Qlik Sense | SQL | Excel | DAX | Data Analysis | KPI Reporting | Business Analysis
 
-# Business Objective
-- Analyze overall sales and profit performance
-- Identify profitable and loss-making product categories
-- Track monthly sales trends
-- Provide insights for business decision-making
+---
 
+## Projects
 
+### 📊 Superstore Sales & Profit Analysis
 
-# Tools & Technologies
-- SQL (PostgreSQL)
-- Power BI
-- Data Visualization
-- Data Analysis
+**Tools:** SQL | PostgreSQL | Power BI | DAX
 
+An end to end sales analytics project covering:
 
+- SQL data cleaning and transformation
+- Sales and profit analysis
+- KPI development
+- Power BI dashboard
+- Category and sub category analysis
+- Discount and profitability analysis
+- Business insights and recommendations
 
-# Dataset
-The dataset contains transactional retail data including:
-- Order Date
-- Sales
-- Profit
-- Quantity
-- Category & Sub-Category
-- Region
+---
 
+### 🚀 More Projects Coming Soon
 
+New projects will focus on:
 
-# Data Preparation
-- Checked for null values and duplicates
-- Validated data consistency
-- Ensured correct data types
+- Business Analytics
+- Operations Analytics
+- Finance Analytics
+- Customer Analytics
+- SQL + Power BI
+- Excel Analytics
 
+---
 
+## My Approach
 
-# Key KPIs
-- **Total Sales:** 733.22K  
-- **Total Profit:** 93.44K  
-- **Profit Margin:** 12.74%  
-- **Total Quantity:** 12.48K  
+**Business Problem → Data → SQL → Analysis → Dashboard → Insights → Recommendation**
 
+---
 
+## Tools
 
-# Dashboard Preview
-
-## Overview
-![Overview](Screenshots/overview.png)
-
-## Category Analysis
-![Category Analysis](Screenshots/category_analysis.png)
-
-
-
-# Key Insights
-
-- **Technology category** generates the highest profit
-- **Tables** is a loss-making sub-category
-- **Copiers and Phones** are top profit contributors
-- Sales peak observed during **March**
-- Profitability varies significantly across sub-categories
-
-
-
-# Business Recommendations
-
-- Reduce discounts or optimize pricing for loss-making products like Tables
-- Focus on high-performing categories such as Technology
-- Improve supply chain or cost structure for low-profit items
-
-
-
-# SQL Highlights
-
-- KPI calculations (Sales, Profit, Margin)
-- Monthly trend analysis
-- Top & Bottom product performance
-- Profit contribution analysis
-
-
-
-# Files Included
-
-- SQL Analysis Script
-- Power BI Dashboard (.pbix)
-- Dashboard PDF Export
-- Dataset
-
-
-
-# Conclusion
-This project demonstrates end-to-end data analysis including data cleaning, SQL querying, and dashboard creation to generate actionable business insights.
+**BI:** Power BI, Qlik Sense  
+**Data:** SQL, PostgreSQL, Excel  
+**Analytics:** DAX, KPI Reporting, Data Analysis  
+**Ways of Working:** Agile, JIRA, Stakeholder Management
